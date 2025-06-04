@@ -1,4 +1,4 @@
-# 🤖 Ask-Anything-AI: Agentic RAG with SQL + Claude 3
+# Ask-Anything-AI: Agentic RAG with SQL + Claude 3
 
 A local, intelligent agent that answers natural language questions using your own **PostgreSQL database**. Built with LangChain, Anthropic Claude, and FastAPI.
 
@@ -26,7 +26,7 @@ A local, intelligent agent that answers natural language questions using your ow
                                 │
                 ┌───────────────▼───────────────┐
                 │       PostgreSQL DB           │
-                │ (entitlement / performance)   │
+                │      ( expenses / dbo)        │
                 └───────────────────────────────┘
 
 
